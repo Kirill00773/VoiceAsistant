@@ -41,15 +41,16 @@
 
 ### 1. Клонирование проекта
 
-git clone <ссылка на репозиторий>
+git clone <https://github.com/Kirill00773/VoiceAsistant.git>
+
 cd voice_assistant
 
 ---
 
-### 2. Создание виртуального окружения
+### 2. Создание виртуального окружения 
 
 python -m venv .venv
-.venv\Scripts\activate   # Windows
+.venv\Scripts\activate   
 
 ---
 
