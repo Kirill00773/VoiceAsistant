@@ -1,0 +1,8 @@
+
+faster-whisper
+sounddevice
+scipy
+torch
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
